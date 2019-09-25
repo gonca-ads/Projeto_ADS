@@ -1,2 +1,2 @@
-# Projeto_ADS
+# Projeto_LMS
 Automação de Testes
